@@ -1,0 +1,15 @@
+input[type=text]{
+    height: 120px;
+    width: 120px;
+    text-align: center;
+    font-size: 48px;
+}
+button[type = submit]{
+    display: block;
+    margin: auto;
+    width: 120px;
+    background-color: aquamarine;
+}
+table{
+    margin: auto;
+}
