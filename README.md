@@ -11,4 +11,4 @@
 
 > Check full site
 >> [Click here](https://aadityamittal.github.io/algo_visualizer/)
-"# algo_visualizer" 
+
