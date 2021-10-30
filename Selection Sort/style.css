@@ -3,13 +3,30 @@ input[type=text]{
     width: 120px;
     text-align: center;
     font-size: 48px;
+    color:white;
 }
 button[type = submit]{
     display: block;
     margin: auto;
     width: 120px;
     background-color: aquamarine;
+    margin-bottom: 10px;
 }
 table{
     margin: auto;
 }
+*
+{
+background-color:black;
+}
+#heading
+{
+    color:white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#tab 
+{
+    border:2px solid yellow;
+}
+
