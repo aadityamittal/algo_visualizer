@@ -13,3 +13,26 @@ input[type = submit]{
 table{
     margin: auto;
 }
+*
+{
+background-color:black;
+}
+#heading
+{
+    color:white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#tab 
+{
+    border:2px solid yellow;
+}
+button{
+    background: yellowgreen;
+    height: 55px;
+    width: 120px;
+    border-radius: 6px;
+    margin: auto;
+    display: block;
+    margin-top: 60px;
+}
