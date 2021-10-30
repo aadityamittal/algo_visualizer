@@ -1,8 +1,13 @@
+*
+{
+background-color:black;
+}
 input[type=text]{
     height: 120px;
     width: 120px;
     text-align: center;
     font-size: 48px;
+    color: white;
 }
 canvas{
     width: 100%;
@@ -16,4 +21,15 @@ button[type = submit]{
 }
 table{
     margin: auto;
+}
+
+#heading
+{
+    color:white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#tab 
+{
+    border:2px solid yellow;
 }
